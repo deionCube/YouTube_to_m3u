@@ -429,7 +429,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603905/ei/YeJyZ73iNfvXsfIPgtCx6AY/ip/20.171.46.99/id/13kXfFlfUdQ.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUPMn4LM1CjKlp4-Rtp2NpgBW3T1syQmkTxHNTdzV9_6ZCgtBkZUMcINHXKE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTR3cpHJBp9v-2WZwGWTJIn97ZX6kq_CcOAiN7a4fOIICIQCPXjvrrprHzhc8ogu0VDeusZxcZ9Lzoy_aAp30nmP2NQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -450,7 +450,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603914/ei/auJyZ_nxCvWSsfIProyc8AY/ip/20.171.46.99/id/aPwL333hgBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUNny6fcU-jCcskjg-gmYkhjyzBvKkkjfZb9LseKdK3cBMzoco0smKo7wpS8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGBX1Q8_UIkLQPU4NTXRt70U6as7pbcRpXt55yI5q5TwCIQC2OZHyxMJ8uQIZi6DQ9LITJgErRqYUlqY5PlpK06npWw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -489,13 +489,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Al Jazeera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603927/ei/d-JyZ_C4Hb2-sfIP3O3wmA0/ip/20.171.46.99/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51306780/txs/51306780%2C51306781/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUGMpPuG_flGmaETkUydrEg2SKf9TD6ngt8x7wEJlSv2KBoKXlrxkOuwp4ew/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4TRMGMUU--u2gz1wK2YNbTWvAGZ33MMjnaGznrY6dYAiBfswFagm06KNseehsS_IiwiC7gMQifJNGmErCLjeUxqw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg" tvg-id="", Hindi hits LOve
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603928/ei/eOJyZ5mPGaLDsfIPxdeTWA/ip/20.171.46.99/id/z_fY1pj1VBw.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUA7c_p-ic2xNoyOeupy1TOZz-tAHGQWnMyyvIVx5R1BYQvuLcfBQyqtcs9w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJboa182cICEVnZ0R9IN4x-kvc57RRsrOC63hSy7VDl2AiEA4reruCQ0t-K5nsSbW4osm8ECdJ7ATxuLmI1gSWzUgp8%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei Bishan Temple
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -507,7 +507,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Gaomei Wetland 4K Live Camera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603932/ei/fOJyZ_L3MLrWsfIP7paPYQ/ip/20.171.46.99/id/fjhg3gAnMFg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUKGDAtajUGlbHrMkBmmGz4ouIVNdcdE_DhrfhMumnA7VgKad-Bfe69C9PT4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWtOQZJV7egl1djUWAOUmbCBVNtnuHQgwNi6V6x_3A90CIQCymLbw_4qHdTSnN1Lwn1hwBpQBmWvbi04cOw2WiVAywg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Eryanping Trail
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -561,10 +561,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Channels Television Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603951/ei/j-JyZ-mHJJ-SsfIPt6LpYA/ip/20.171.46.99/id/dfB0qmJo1eM.808/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357436/txs/51357435%2C51357436%2C51357437/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUFflaMeXlmFUIOJs5imglGzl8Z3EmMQPm8WD6dUovn3yUFb_HTJEfKrbzEo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALT_2xLbRXyS4qrYsMTQaAjEoaAfcvmD6Hf3Ou5FM-62AiBNp3KEs5rYM6JNKubWqPN_Uv9k3I83NNy6hc-Azc3F8A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Live - Sport Camera - Deerfield Beach, Florida USA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603952/ei/kOJyZ5WTL7n5sfIPrpjB-AI/ip/20.171.46.99/id/Lic2fD18wnw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUF2Ik1ygaJsuR7bAEPNRaw3-yho8GPeIA4BtbURDHL_j4lbcNwRy4EwJJCg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf6ESdqTxRv9JsaeCqHzoKJh1tV1QdOeIpiuEamRLj7wCIQDaap89JlLjGMZY323BnIFq4hatnE_x4Nuy24aGLKTqHA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Punjabi" tvg-logo="" tvg-id="", PTV SPORTS LIVE Streaming
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
