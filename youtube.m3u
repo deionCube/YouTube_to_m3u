@@ -228,7 +228,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666498/ei/YluSZ7P3I7aZsfIP7rao6Q0/ip/52.234.33.229/id/drhmo4XSVYA.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380153/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MZPNPnl2igNZbtlbLt8ka9snI9EQZo36FXnAQJlIccfR4S1gHz-IwO-eBXyR7TtI-WlMm6kBFc/spc/9kzgDSEqKA48bz69Os0jPgYv89VMAG2YMfHlV_227C4hEsVSO2v7Lj3YIfM3kPQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKw6uDQ0mF16Me0bJA0fZuRn4taPbI3xhZW8T15XaLHDAiEA0wJEPeq9GOLmNsq-0A8iaIs9kDhArWrdoZUOEcI7Dr4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24 TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -474,13 +474,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666577/ei/sVuSZ5HhE6mpsfIPrJHq4AI/ip/52.234.33.229/id/IrISNeGXvQs.3022/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51370627/txs/51370625%2C51370626%2C51370627%2C51370628%2C51370629%2C51370630%2C51370631%2C51370632%2C51370633/hfr/1/maudio/1/gcr/us/bui/AY2Et-M7ur_8B6m8XSFsleGb4vNksd7UHb2qaX4X1OcGAFo5IyqILv4wtQgoeDKFHHhGFPfJEEQFCLuY/spc/9kzgDRHpVTi2amGnnKtEBzQRWWWgMytMLRh8uQ8wmNkSUgVyf8IVbBHIQOsjf_o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPpC2rEkAX5SzqToyoDU38BCTEQS3E2EvDJv2So-O4lwAiAcuPnhvjgOR6Fnl_WCMNYlGZQAfV33rUGnT9NqYMDUEA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666578/ei/sluSZ5aVBLL3sfIPo9TS6QM/ip/52.234.33.229/id/sUKwTVAc0Vo.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-O0hYSALHL6Aqb0IeN6O9MuF2AXqBCz6h4O6nnbl7a5R2Dqcr2STrj1YRvDg-q1-IwRpaH_Urht/spc/9kzgDXz1Hkt0cfb0H58_Xl129y7nGFXZo_4lpkd0iwHcL66cijaF-SQEk0mRCMg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDqGsJ2p3n36lj1nTiF2a99s92X40E2v4cEvUkYlMOXECICfOUQW-roZ2jAhVWPZotR_SSH9P-baIYKuIWfZElNgM/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666579/ei/s1uSZ4znFqr4sfIP_7ikwQc/ip/52.234.33.229/id/1ph8qQnjXts.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NnA1P6KFgXKrZvCS4wuyUz2x_13rwn8j6PL4d1DJkf9pOXoJh625Dq5q9dwPrTXqnKbdliAKds/spc/9kzgDZWPhzqXlwrDpeCAkCQeNXbRp8weEaolgETO8Yg8EUPa0E3KcX9Hqixwdrs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK7O3GoBLnJKze0vWptPgy7P2n0uWRQe17D6l21tVAq_AiAodX2NhEcfDRVorNXuU2ylclA0iay_6ONsTQcptzO47w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -498,7 +498,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei Bishan Temple
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666586/ei/uluSZ92uIuWcsfIPp7THsAk/ip/52.234.33.229/id/uvwfYzwY8tg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51365994/txs/51365992%2C51365993%2C51365994/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PthDUfKLmRvBlUdOP_uLTxOtDq6p04j9ErJ_4F75YhjMYFDA6FfbETTtMRte3pqroaaVqtggHA/spc/9kzgDQKrBnCaCm82fgxbc3IqGJoo1J3miFbwshPYUverhGM2REqrwCkMh6xO5Is/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf0AtKuosQsPk3xkFzt9jN_EwAUOMtbWX9aEZn5ub2IECIQCFtLZ8kcw399i38BEPNMyDlpf3GgwH0REuDWTauP0xxA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Kaohsiung Shoushan Lovers' Viewing Platform
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
