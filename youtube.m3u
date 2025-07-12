@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752365457/ei/MaVyaPjKHvTqlu8PyqmMqQs/ip/40.122.159.79/id/YGEgelAiUf0.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/maudio/1/bui/AY1jyLOG94yUFq3Woj62FdJYNdYxgIrT5XKRuM2n5EWnWMixzEf5YAtrQAX9rhi-LyHJp2p8DsIiFHhb/spc/l3OVKXKkq7c2imqBVm_615nr9Rpe8FxPhIoBPhB27uWjEoPRuds_bhjGz1o4joVaIJU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNMLFjUlGw2JbxJVlYFdHf90RS4qt9oiNw8yvckzVaW4CIQDARiL6GfOUAWPgx5egfqCd4F0jcbf_o9o1csZhTDhrHA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -726,7 +726,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Times Square" tvg-logo="" tvg-id="", Times Square: 1560 Broadway View Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752365716/ei/NKZyaKKZK7zglu8PoPOrqA4/ip/40.122.159.79/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNusMOoa1-fBEuUKuSU-ttqw1-9gfvxOAw6NV_wpODkIDcNGW2-qzQfoZc4qPJvRtbv2jugA_KM/spc/l3OVKekYnrzlVLySXhgORGy8ZM1tcvAF-0zGwMOyN2ctkOm9eAouee4ViTwuN3XuHpU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJFTeQIFH6UzuA_snEVEy9tgxEhg6CRLWzzsK8ILupr-AiA0GP50mkEWKhICm2ovyui0yeYKZ0TIPXyXsPanfem0gQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera" tvg-logo="" tvg-id="", Dubuque County - Dome
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
