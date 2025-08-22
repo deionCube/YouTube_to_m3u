@@ -429,7 +429,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755897063/ei/h4ioaNK_C_OU2_gPmbKLkQg/ip/64.236.161.19/id/RGXrQGLYNyM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMKGisIipraeDl7-wjtOu3xrxEz2l4oqQyQ-ki1yLx2pB-Gl4t6xEXQbUJ62c_b3_7Q72BRvnII/spc/l3OVKfZG32vPuja7uQAQstYlfAs5A0uCCkoNrnFNR4IUTxHhhqMEBI4TNm4t1Ybyco4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIMMVnJJ9wSGl90TDSgQv8C_T_b5UeEWq8le0PSOWNSDAiAOt0UiX_yQq8xgMG2nVv9R0nzlyzcPf7ATVJAlmy9raQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
