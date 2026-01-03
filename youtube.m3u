@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767464213/ei/tQhZaZrPEPCG2_gP8JWO6QY/ip/172.182.193.129/id/Nq2wYlWFucg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DNMCioK4csRvAk5GEtBRzSTZTFZCLciqYHGa-agCDiisgghRYdGri82gPXXs-ukZOFQUacNWyk/spc/wH4Qq71qmqGaSWPoG59sAjB11hQdUu-RkzHL-c92DqjWBfaPq5-6SykN5LrRtHt2zg0/vprv/1/go/1/ns/vkkzq_ZLPga9itxcVZfZIYwR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/YS5GGBElbFWtOg9Pw2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEVaewWWLAwCK9nGlQnwnce43Sf7GFDpbHyvAfYB6A7oCIQC7jp1EF3pvvQXUXzx0jlGhCxjBoyzV20Ip9cPoNjXgGg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -477,7 +477,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767464327/ei/JwlZaeSvIPmZ2_gPg9qMyAw/ip/172.182.193.129/id/yVQr_J_RQVg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AYUSA3CpoDgmDaYZilKkL1TtS4K_b8kL-Bxj7qi5dpwBLRZuxtZ6zCACAetZTgT3r5w_nfmI6HjTmpYI/spc/wH4Qq5laNQ3AUwL-tUxLw7-kA4garp249iZYbuzlc9vcbnntts3Yw8F3TuMi5Q3_89c/vprv/1/go/1/ns/iLdfk62Np6SdQUz8KpPkzqIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/ZlBoBl2YQ0lodG-2_L/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd9ZaPWUnDhsbaDqBcPDsWq1YWkChMzEy2ZvuGlRkjaICIQCjTID0A4wcPP2x0uBp24xbbp2S2bUItTbzdn9uIOfZiw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
