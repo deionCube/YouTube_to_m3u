@@ -141,7 +141,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768760208/ei/MM9saZ3-J72wlu8P25Ww2Qw/ip/20.169.72.18/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oIHLqJDTjiU2fvaAA7IiwPaLMYF3oK2CHinp__iuVj1fwZKJ1ssSg9jf_Zcy_LbAbX8mWy1dWN/spc/q5xjPBvumySo5MO9TBOvz0bqHa_TK6VgIsUr-4RyRRhTWfXb4_54l2gs9CLZE4q5Kfg/vprv/1/go/1/ns/GtDOGsz68fA7qO0kb8GAZqQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/NV4SkxPntCQ2Cq72e53/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPY2SZWn4ILQL_FMcp3CTOEV2FjLqXpQObkqYNwi1UC8AiEAqQlU0fXmwrNqkcIHjTUSQ_lFdAhyUdom7aMAsH_H1PY%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -477,13 +477,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768760329/ei/qc9sad21EZjC-coPkfHfqQI/ip/20.169.72.18/id/r-bNVoz6NRo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AW-iu_ra14vraOPaeI-CSfo9p4IVhI79N9XSjKo5dfgJ8TRf6D-5k-UOhHLU12m5DcTcNKhe1uapY3iL/spc/q5xjPNFxAmiuLhA13NmCGsu5zOavm8vV1tnl79RaKpXtXDBDy-5Z04nIFlguw0qy7adm_A/vprv/1/go/1/ns/cLWhn85-sjDrkF8nqsGzQ3YR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/E4jenq93WhyxLTYxTaq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgV1Yo2LHEZPnIE46qB5Z8GFGh6OUeskoOeO9-NqTwSYcCIQC-TtpGe7LDxOqB02e4F1AarqK93reZN0hTSk0Ed0yb7A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768770679/ei/F_hsadaoOdeolu8PveLSgQM/ip/13.83.161.82/id/q-BvtDrTnxc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_o9yPyQkEx1tDuKoJPZvB7lb31jf31QdbVUX0UqnM1jHUt6k-nbHLBxj0fN3VwWBiPv-lQZ0DQU/spc/q5xjPFquKeHKOVYdDAKLrQLxb0rgwj4pxJHZtA3yuZpmCNS4vulIJllqEnFrSZaBCag/vprv/1/go/1/ns/G3xUw3WTdvO2Q2aunQ71h9YR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/KMNYr2V-eo2L79NVQcn/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPDMOGatNUTRMgwbTENbZsDbWxZ2lF7o0YYlrBobLqqgAiAFle6slj4pwCHdiXY8YRWoO12M2L5EEZG4-qrVDMHpQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Punjabi" tvg-logo="" tvg-id="", Shri bhucho sahib live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
