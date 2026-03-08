@@ -642,7 +642,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", LIVE 24/7 Rolling Cam Venice - Live Cam in Venice Italy
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772953317/ei/hcqsaar-Go2Vir4PwInDqA8/ip/52.173.219.144/id/ph1vpnYIxJk.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774351/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-x_Rf9N-6F2q2_xiFntt4u1nsb_IYbnJ7mW7jSGyQCrp45eiKIctfqaue1ufqA7a4PgHMAhis59/spc/6dlaFHg3MhU9oP9F-YHQEvz9ObZUT3_h_b55rNJeWT48lja_7s4qO8YDTLu2lDwOq8sppw/vprv/1/go/1/ns/JJpUuo_ughP8VbXELY-7WUAT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/F0dI8nbrWosrxvls/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAO9G8FGH8wBUjXlCMzPQSi9wHXNNL9_0IzGrwfoK1gcwAiBEbE1lAphMl5lbMgqg-tbyUtd5-36B76wVp7x_jWwv8w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Deer Pantry "Trough View"
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
