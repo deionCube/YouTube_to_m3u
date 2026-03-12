@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773362100/ei/UwezadTFOdSIir4PmPiksAc/ip/130.131.200.40/id/VNzHENanD0g.48/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-z4ZjpHT4oYx60Y-BqYCbOusP_XbSZn3sqM4aPxG9oKsafoxSK7eiHgsFgsYiJhDrGC-qXV3BCr/spc/6dlaFHO_t4Spo2sW_UK3gqtshSPzkL2vQwRNOAYuDm-TqIzJtBtVIGTwI3ZlKtaxAfjGAQ/vprv/1/go/1/ns/8akXFqxVKXagPTTHJOqNcioT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/3tG-AWcU2j1B2wd0yVI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANN9zymzNoVin7xUutsX7xgMF5p3g-JRTx_GfS0rQdfqAiEAke2fQLehKwr-8setANxV998kozcd5deqZr6ACcxzy8c%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -450,7 +450,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773362276/ei/BAizad3NKLzpybgPqbqSuAM/ip/130.131.200.40/id/YxInOrpf-LE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51757982/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-yDSnBrLKJcsKGLHA_4f17-SWHo5y3Epj8y3xPs7Hzekx4qWVbR0ghRZzKYQtN5c-Bc_MiIt7Qf/spc/6dlaFMq1iMtMGjHVWl2RaH2B-r3HZbANA3iXS6Hbu5Jrotjbv0tMcajZOV1KSPqqh3lmOg/vprv/1/go/1/ns/HegBvax3IIzTrLK4DqBxg3gT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/0y8BxqmrHbcVrp6BhWp/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgTXIIObPPlXHGs3VstLGx-EYsWcglIgIrySbmmVmLCBACIQC87SlsSdvFzPVma_TrSEAmHaVdRbUjX_iLmzufIkC9jw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -474,7 +474,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773362289/ei/EQizacD_DIOY-coPrtyR2A8/ip/130.131.200.40/id/fo0r9IU8eBk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794307/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AVNa5-zMp37UJemYRm1gDoQQWYTLU5R2KinbRnvCTDMGGUpcaXi3NoPKSvrBX_EVuEFh_O0IKzmhIW7K/spc/6dlaFFHzIsqlYGJw0KmZAKSBj5pgwmYglQDTWHiarTgq52qCl6Lxp6bK2-Y9C78B1ButKA/vprv/1/go/1/ns/VPQweZ_pCEQcQCkrdPAl-c8T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/9vV1HfHDNcR9Kz2BOzO/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALy_iPB5k2EiHN1aq0qANTN1x-jAmGiQ0jyBA0BnRRqWAiEAsjDO7uB08VQPEodrVYOlSpTKMdtZnVUFZUghn_D_7GU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -540,7 +540,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", TRINITAS TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773362331/ei/OwizaY6FDLXkir4Px_7yyA4/ip/130.131.200.40/id/Q9R56mgOols.58/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794319/txs/51794319%2C51794320%2C51794321/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-zfgbbHxmNRVC1VaZV2mL1aEqwoKGbewj30zAhUHVRirOtAXaSZj3V6jIorYUuOHF8c0dm2pn2j/spc/6dlaFEwZxOk51N8GpRm-5DnDayAD80u7Z_lu6nAng2KuxEJLQe7OxXI9CFqR4_FyeyGlMw/vprv/1/go/1/ns/w5eXDWP0CHnDqK6tDYpXljsT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/F-tHuMch2we6Z3X333m/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgflEmuFMAwO1k4FHnPABDSsm-w6u9U7tgiB0OH3p4bOoCIQCg0BPSkXtfkaChI24348vQuQzEc-9oL-eLWLvvzpDehw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
